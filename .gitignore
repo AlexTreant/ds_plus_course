@@ -1,0 +1,13 @@
+# Виртуальное окружение
+env_ds_plus_course/
+
+# Python кэш
+__pycache__/
+*.py[cod]
+
+# Настройки VS Code
+.vscode/
+
+# Данные и большие файлы
+*.csv
+*.zip
